@@ -1,0 +1,17 @@
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\bin\Debug\net6.0-windows\LP2_B301.exe
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\bin\Debug\net6.0-windows\LP2_B301.deps.json
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\bin\Debug\net6.0-windows\LP2_B301.runtimeconfig.json
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\bin\Debug\net6.0-windows\LP2_B301.dll
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\bin\Debug\net6.0-windows\LP2_B301.pdb
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\obj\Debug\net6.0-windows\LP2_B301.csproj.AssemblyReference.cache
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\obj\Debug\net6.0-windows\LP2_B301.Form1.resources
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\obj\Debug\net6.0-windows\LP2_B301.csproj.GenerateResource.cache
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\obj\Debug\net6.0-windows\LP2_B301.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\obj\Debug\net6.0-windows\LP2_B301.AssemblyInfoInputs.cache
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\obj\Debug\net6.0-windows\LP2_B301.AssemblyInfo.cs
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\obj\Debug\net6.0-windows\LP2_B301.csproj.CoreCompileInputs.cache
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\obj\Debug\net6.0-windows\LP2_B301.dll
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\obj\Debug\net6.0-windows\refint\LP2_B301.dll
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\obj\Debug\net6.0-windows\LP2_B301.pdb
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\obj\Debug\net6.0-windows\LP2_B301.genruntimeconfig.cache
+C:\Users\Iasmim\source\repos\LP2_B301\LP2_B301\obj\Debug\net6.0-windows\ref\LP2_B301.dll
